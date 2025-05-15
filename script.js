@@ -99,7 +99,7 @@ const platforms = [
         icon: "fas fa-tv", 
         budgetLimit: 6000000,
         description: "Видеореклама на SmartTV через IVI.",
-        formatExample: "https://downloader.disk.yandex.ru/preview/8756af8714edb316b94754e9c0d7e43ff40381de1cabee1a664f78acdc436727/6825d7c1/uCz2pL689Ewqer5nbVSZTVl3t0Wcpwcn9oXnIGSi3mW7s-kBFiywmJ6bjeKcnc3cALcfWd8Aa31luP8mlZGulg%3D%3D?uid=0&filename=Ivi_olv%201.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v3&size=1920x912"
+        formatExample: "https://i.postimg.cc/bNd5KQR0/Ozon-banners.jpg"
     },
     { 
         id: 6, 
@@ -116,7 +116,7 @@ const platforms = [
         icon: "fas fa-ad", 
         budgetLimit: 4000000,
         description: "Различные форматы баннеров на платформе Avito.",
-        formatExample: "https://downloader.disk.yandex.ru/preview/94be33dcdedb7473644fa98398868afb4fe59e77e1b9a18463856b80995826a7/6825d7c1/kNJTLLLDekSc_rKUl-YOqY15XtYjCdkrSN9iX3O4aIA9FvrQcJF_OOiQxycOCRi9_qKNB0G1niTZ6WBwz6Cwyg%3D%3D?uid=0&filename=%D0%90%D0%B2%D0%B8%D1%82%D0%BE_%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC_%D0%9D%D0%B5%D0%B1%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D0%B1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=1920x912"
+        formatExample: "<a href='https://postimg.cc/RN5GtJyq' target='_blank'><img src='https://i.postimg.cc/bNd5KQR0/Ozon-banners.jpg' border='0' alt='Ozon-banners'/></a>"
     },
     { 
         id: 7, 
